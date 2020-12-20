@@ -1,4 +1,4 @@
---SOURCE: https://github.com/Neffc/narg/
+--SOURCE: github.com/probable-basilisk/alchemyrecipes 
 
 local function hax_prng_next(v)
   local hi = math.floor(v / 127773.0)
